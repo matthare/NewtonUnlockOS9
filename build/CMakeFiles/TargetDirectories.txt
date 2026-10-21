@@ -1,0 +1,4 @@
+/Users/hare/register/NewtonUnlockOS9/build/CMakeFiles/NewtonUnlock.dir
+/Users/hare/register/NewtonUnlockOS9/build/CMakeFiles/NewtonUnlock_APPL.dir
+/Users/hare/register/NewtonUnlockOS9/build/CMakeFiles/edit_cache.dir
+/Users/hare/register/NewtonUnlockOS9/build/CMakeFiles/rebuild_cache.dir
